@@ -1,5 +1,7 @@
 import styles from './CountriesTable.module.css'
 
+const orderBy = () => {}
+
 export default function CountriesTable({ countries }) {
   return (
     <div>
